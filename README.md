@@ -23,11 +23,12 @@ Safete (Raif) Hyseni
 # nr landa
 
 ```
+224/2025
+01767-1
 Safete (Raif) Hyseni
 1004536653
 Nerodime e Ulët
 +38345502037
-01767-1
 
 ```
 
